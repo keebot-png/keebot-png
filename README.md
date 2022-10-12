@@ -3,13 +3,13 @@
 <img align="right" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif" alt="coding image" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keebot-png&label=Profile%20views&color=0e75b6&style=flat" alt="keebot-png" /> </p>
 
-- 🔭 I’m currently working on **Object oriented programming projects in Javascript**
+- 🔭 I’m currently working on: **Object oriented programming projects in Javascript**
 
 - 🌱 I’m currently learning: **Javascript, React and Ruby**
 
-- 📫 How to reach me **kee.bot@icloud.com**
+- 📫 How to reach me: **kee.bot@icloud.com**
 
-- ⚡ Fun fact **I build at least one project per week**
+- ⚡ Fun fact: **I build at least one project per week**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
