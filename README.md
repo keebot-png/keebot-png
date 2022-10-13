@@ -1,6 +1,7 @@
+<img align="center" height="500" width="75%" src="./images/keenan.gif" alt="coding image" />
 <h1 align="center">Hi 👋, I'm Keenan Botes</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
-<img align="right" width="400" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif" alt="coding image" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keebot-png&label=Profile%20views&color=0e75b6&style=flat" alt="keebot-png" /> </p>
 
 - 🔭 I’m currently working on: **Object oriented programming projects in Javascript**
