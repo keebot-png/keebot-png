@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Keenan Botes</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keebot-png&label=Profile%20views&color=0e75b6&style=flat" alt="keebot-png" /> </p>
-
-- 🔭 I’m currently working on: **Object oriented programming projects in Javascript**
+- 🔭 I’m currently working on: **Building projects in Javascript**
 
 - 🌱 I’m currently learning: **Javascript, React and Ruby**
 
