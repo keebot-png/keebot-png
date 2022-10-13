@@ -1,4 +1,4 @@
-<img align="center" height="600" width="100%" src="./images/keenan.gif" alt="coding image" />
+<img align="center" src="./images/keenan.gif" alt="coding image" />
 <h1 align="center">Hi 👋, I'm Keenan Botes</h1>
 <h3 align="center">A passionate frontend developer from South Africa</h3>
 
