@@ -1,6 +1,6 @@
 <img align="center" src="./images/keenan.gif" alt="coding image" />
 <h1 align="center">Hi 👋, I'm Keenan Botes</h1>
-<h3 align="center">A passionate front end developer from South Africa</h3>
+<h3 align="center">A passionate front-end developer from South Africa</h3>
 
 - 🔭 I’m currently working on: **Building projects in Javascript**
 
