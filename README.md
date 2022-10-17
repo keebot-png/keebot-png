@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning: **JavaScript, React and Ruby**
 
-- 📫 How to reach me: **kee.bot@icloud.com**
+- 📫 How to reach me:<br> Email Address: **kee.bot@icloud.com**<br>
+LinkedIn: **https://www.linkedin.com/in/keenan-botes-947043160/**
 
 - 👨‍💻 All of my projects are available at: [https://keebot-png.github.io/personal_portfolio/](https://keebot-png.github.io/personal_portfolio/)
 
