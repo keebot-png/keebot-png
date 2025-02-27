@@ -2,14 +2,12 @@
 <h1 align="center">Hi 👋, I'm Keenan Botes</h1>
 <h3 align="center">A passionate Full-stack developer from South Africa</h3>
 
-- 🔭 I’m currently working on: **Building projects in React, Redux and Rails**
+- 🔭 I’m currently working on: **Building projects in Vue, React and Express**
 
-- 🌱 I’m currently learning: **JavaScript, React and Ruby**
+- 🌱 I’m currently learning: **Nextjs, AWS and NoSQL DBs**
 
 - 📫 How to reach me:<br> <strong>Email Address:</strong> **kee.bot@icloud.com**<br>
 <strong>LinkedIn:</strong> **https://www.linkedin.com/in/keenan-botes-947043160/**
-
-- ⚡ Fun fact: **I build at least one project per week**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
