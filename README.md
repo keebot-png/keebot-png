@@ -9,8 +9,6 @@
 - 📫 How to reach me:<br> <strong>Email Address:</strong> **kee.bot@icloud.com**<br>
 <strong>LinkedIn:</strong> **https://www.linkedin.com/in/keenan-botes-947043160/**
 
-- 👨‍💻 All of my projects are available at: [https://keebot-png.github.io/personal_portfolio/](https://keebot-png.github.io/personal_portfolio/)
-
 - ⚡ Fun fact: **I build at least one project per week**
 
 <h3 align="left">Connect with me:</h3>
