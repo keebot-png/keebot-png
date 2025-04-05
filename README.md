@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Keenan Botes</h1>
 <h3 align="center">A passionate Full-stack developer from South Africa</h3>
 
-- 🔭 I’m currently working on: **Building projects in Vue, React and Express**
+- 🔭 I’m currently working on: **Building projects in Vue, Express and Odoo ERP**
 
 - 🌱 I’m currently learning: **Nextjs, AWS and NoSQL DBs**
 
